@@ -13,7 +13,6 @@ A list of all current offers
 ![offers]
 We can leave a comment for every events
 ![reviews-page]
-![comments]
 Signup page
 ![sigup-page]
 Login page
