@@ -6,7 +6,7 @@ This project's goal was to learn the basics of JEE.
 ## Screenshots
 ### Client Side: 
 
-[![landing-page]]
+![landing-page]
 [[list-event]]
 [[offers]]
 [[reviews-page]]
