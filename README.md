@@ -6,17 +6,17 @@ This project's goal was to learn the basics of JEE.
 ## Screenshots
 ### Client Side: 
 
-[landing-page]
-[list-event]
-[offers]
-[reviews-page]
-[comments]
-[sigup-page]
-[login-page]
-[forgot-password-page]
-[account-page]
-[reservation-tab]
-[view-reservation]
+[[landing-page]]
+[[list-event]]
+[[offers]]
+[[reviews-page]]
+[[comments]]
+[[sigup-page]]
+[[login-page]]
+[[forgot-password-page]]
+[[account-page]]
+[[reservation-tab]]
+[[view-reservation]]
 
 [landing-page]: images/client-side/landing.PNG
 [list-event]: images/client-side/listevent.PNG
