@@ -5,17 +5,26 @@ This project's goal was to learn the basics of JEE.
 
 ## Screenshots
 ### Client Side: 
-
+Landing page
 ![landing-page]
+A list of all events
 ![list-event]
+A list of all current offers
 ![offers]
+We can leave a comment for every events
 ![reviews-page]
 ![comments]
+Signup page
 ![sigup-page]
+Login page
 ![login-page]
+Forgot password page
 ![forgot-password-page]
+View account
 ![account-page]
+Reserve an event
 ![reservation-tab]
+View all reservations
 ![view-reservation]
 
 [landing-page]: images/client-side/landing.PNG
